@@ -15,7 +15,7 @@
 ## Concepts
 - [[3d-photogrammetry]] — 3D 摄影测量、高斯溅射、PLY/SPZ 格式转换与实时应用
 - [[adb-multi-device-management]] — ADB 多设备同时连接时的设备指定与管理
-- [[ar-museum-solutions]] — AR 博物馆方案商、手势识别、ComfyUI AR 分析工作流
+- [[ar-museum-solutions]] — AR 博物馆方案商、手势识别与交互方案
 - [[ai-image-generation]] — AI 图像生成工具链：ComfyUI、Flux、FaceFusion、数字人
 - [[camera-point-system]] — CameraPoint 相机点管理系统：创建、导出、加载相机点数据
 - [[cuda-toolkit-安装与路径管理]] — CUDA Toolkit 安装位置、环境变量配置、多版本共存与迁移
@@ -47,6 +47,4 @@
 ## Queries
 
 ## Meta
-- [[topic-map]] - 高频主题导航页，后续汇聚反复出现的知识簇。
-- [[conflicts]] - 记录待人工复核的冲突和高风险重复页。
-<!-- KB_STAGING_LINK --> - [[staging-index]] - 初始资源整理中的 staging 导航页。
+- [[topic-map]] — 高频主题导航页
