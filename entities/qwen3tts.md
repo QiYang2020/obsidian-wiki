@@ -19,7 +19,7 @@ sources:
 
 ## 概览
 
-Qwen3TTS 是一个基于 [[pytorch]] 和 CUDA 的本地 TTS 工程项目，整合了阿里通义千问的 Qwen3-TTS 系列模型与 OpenAI Whisper 强制对齐工具，通过 [[gradio]] WebUI 提供语音设计、语音克隆、批量生成和 LRC 歌词同步等能力。
+Qwen3TTS 是一个基于 [[pytorch]] 和 CUDA 的本地 TTS 工程项目，整合了阿里通义千问的 Qwen3-TTS 系列模型与 OpenAI Whisper 强制对齐工具，通过 Gradio WebUI 提供语音设计、语音克隆、批量生成和 LRC 歌词同步等能力。
 
 核心用途：
 
