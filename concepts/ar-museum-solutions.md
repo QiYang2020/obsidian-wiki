@@ -52,14 +52,6 @@ Unity XR Hands 包提供手势识别功能，用于检测静态手势。
 3. 订阅 `gesturePerformed` 和 `gestureEnded` 事件
 4. 在事件中控制 `XRGrabInteractable` 的选择状态
 
-## AR 分析工作流（ComfyUI）
-
-使用 ComfyUI 构建 AR 分析工作流：
-1. **输入处理**：图像预处理、特征提取
-2. **模型推理**：物体识别、深度估计
-3. **后处理**：结果可视化、数据导出
-4. **API 集成**：Python 调用本地主机运行
-
 ## 相关页面
 
 - [[xr-vr-ar-development]] — XR 核心开发框架（OpenXR、SteamVR、XRIT）

@@ -141,26 +141,6 @@ AR 博物馆方案商（云观博、Kivicube、Rokid 等）、Static Hand Gestur
 
 → [[ar-museum-solutions]]
 
-## 跨平台开发建议
-
-### 选择决策树
-```
-需要 VR 还是 AR？
-├── VR → 使用 SteamVR (HTC VIVE) 或 Oculus Integration
-├── AR → 使用 AR Foundation (iOS/Android)
-└── MR → 使用 XRIT + OpenXR
-
-目标平台？
-├── 移动端 → AR Foundation + 轻量级交互
-├── PC VR → SteamVR + XRIT
-└── 一体机 → XRIT + 平台特定 SDK
-```
-
-### 性能优化
-- **渲染优化**：减少 Draw Call，使用 GPU Instancing
-- **交互优化**：限制同时活动的 Interactor 数量
-- **追踪优化**：降低追踪频率，使用预测算法
-
 ## 跨页面参考
 
 - [[ar-museum-solutions]] — AR 博物馆方案、手势识别、ComfyUI AR 工作流
