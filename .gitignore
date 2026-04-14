@@ -1,0 +1,68 @@
+# 项目文件
+*.uasset
+*.umap
+*.unity
+*.prefab
+*.asset
+*.mat
+*.shader
+*.fbx
+*.obj
+*.png
+*.jpg
+*.tga
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.dylib
+*.unitypackage
+
+# IDE文件
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity文件
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# UE5文件
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# 大型资源文件
+raw/assets/
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.cache
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
