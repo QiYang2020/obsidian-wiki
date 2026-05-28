@@ -53,6 +53,10 @@ Intermediate/
 Saved/
 DerivedDataCache/
 
+# 本地原始资源与中间产物（不公开）
+raw/
+_staging/
+
 # 大型资源文件
 raw/assets/
 

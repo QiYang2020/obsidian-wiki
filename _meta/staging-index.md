@@ -1,0 +1,22 @@
+---
+title: Staging Index
+created: 2026-05-28
+updated: 2026-05-28
+type: meta
+status: stub
+tags: [staging, ingest, 导航]
+---
+
+# Staging Index
+
+该页用于汇总 `_staging/` 相关的 intake、处理中内容与归档入口。
+
+## 当前状态
+
+- 当前仅作为 `topic-map.md` 中的占位导航页
+- 后续可扩展为：staging 来源分类、处理进度、归档去向、未整理项清单
+
+## 相关页面
+
+- [[topic-map]]
+- [[conflicts]]
