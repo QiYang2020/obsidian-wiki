@@ -58,6 +58,7 @@ raw/
 _staging/
 更新日志.md
 _meta/冲突记录.md
+clean_for_public.py
 
 # 大型资源文件
 raw/assets/
