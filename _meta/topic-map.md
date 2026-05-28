@@ -8,7 +8,7 @@ type: meta
 # Topic Map
 
 > 高频主题导航页。随着 wiki 增长，把经常反复出现的主题聚合到这里，方便 Obsidian 浏览。
-> Last updated: 2026-04-14
+> Last updated: 2026-05-28
 
 ## XR/VR/AR 开发
 - [[adb-multi-device-management]] — 多设备 ADB 管理与设备选择
@@ -28,6 +28,10 @@ type: meta
 - [[gzucm-vrvideo-teleport-system]] — 传送系统：标签传送、确认对话框、输入系统
 - [[gzucm-vrvideo-interaction-system]] — 交互系统：抓取返回、按钮交互、材质切换
 - [[gzucm-vrvideo-ui-system]] — UI 系统：菜单管理、背景音乐控制、音频同步
+- [[vrdragon-multiplayer-unity-project]] — VR Dragon 多人联机项目：自动赛流程、Mirror、PICO 客户端
+- [[vrdragon-network-and-matchflow-system]] — 网络与比赛流程：自动角色选择、上船、Ready、连续回流
+- [[vrdragon-boat-motion-system]] — 船体运动与调参：划桨推进、NPC 节奏、服务端参数面板
+- [[vrdragon-results-and-ops-system]] — 结果与运营：冲线、排行榜、相机切换、现场看板
 
 ## UE5 开发
 - [[ue5-development]] — 蓝图交互、编辑器扩展、资源导入、媒体播放
@@ -60,6 +64,8 @@ type: meta
 
 ## 个人项目
 - [[aiguidedtourstory]] — 博物馆 AI 导览故事生成
+- [[aigroupchat]] — AI 群聊导览剧本：活动绑定、静态剧本、运行时托住绕回
+- [[lightup-aitourpoint-api]] — 讲解点 AI 生成：文稿、TTS、音频与 LRC
 - [[qwen3tts]] — Qwen3-TTS 语音合成 + Whisper 对齐
 - [[hunyuanworld-mirror]] — 腾讯混元 3D 世界重建
 - [[facefusion]] — 人脸替换与增强平台

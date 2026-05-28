@@ -1,22 +1,28 @@
 # Wiki Index
 
 > Personal knowledge catalog for the `knowledge` Hermes profile.
-> Last updated: 2026-04-14 | Total pages: 187
+> Last updated: 2026-05-28 | Total pages: 52
 
 ## Entities
 - [[aiguidedtourstory]] — AI 导览故事生成工具：Gradio 应用 + 5 阶段技能管线，博物馆展品趣味文案自动生成
+- [[aigroupchat]] — 单活动 AI 群聊导览剧本系统：管理端讲解点读取、静态剧本生成、运行时托住绕回
 - [[facefusion]] — 开源人脸替换与增强平台，支持图片/视频处理、多种硬件加速
 - [[gzucm-vrvideo-unity-project]] — GZUCM_VRVideo Unity 项目：VR 视频播放系统，媒体展示、传送、交互菜单
 - [[hunyuanworld-mirror]] — 腾讯混元前馈 3D 世界重建模型，单次推理生成点云/深度/法线/3DGS
+- [[lightup-aitourpoint-api]] — 讲解点 AI 生成 API：speechText、instruction、ttsText、StepFun 音频与 LRC 对齐链路
 - [[mr-workshop-unity-project]] — MR_Workshop Unity 项目：MR 交互系统，手势识别、区域触发、积木搭建
 - [[panorendering-project]] — PanoRendering UE5 项目：全景相机渲染系统，包含画框管理、展厅场景、相机点系统
 - [[qwen3tts]] — Qwen3-TTS 本地语音合成 + Whisper LRC 对齐工具链，Windows+WSL 部署
+- [[vrdragon-multiplayer-unity-project]] — VRDragon_Multiplayer Unity 项目：Mirror 联机 VR 龙舟自动赛，含上船、划桨、排行榜与运营看板
 
 ## Concepts
 - [[3d-photogrammetry]] — 3D 摄影测量、高斯溅射、PLY/SPZ 格式转换与实时应用
 - [[adb-multi-device-management]] — ADB 多设备同时连接时的设备指定与管理
 - [[ar-museum-solutions]] — AR 博物馆方案商、手势识别与交互方案
 - [[ai-image-generation]] — AI 图像生成工具链：ComfyUI、Flux、FaceFusion、数字人
+- [[aigroupchat-runtime-reply-system]] — AIGroupChat 运行时回复系统：可见上下文、托住绕回、主流程不中断
+- [[aigroupchat-script-generation-system]] — AIGroupChat 剧本生成系统：活动源归一化、Schema 约束、script.v0.3 组装
+- [[aigroupchat-storage-and-admin-source-system]] — AIGroupChat 源数据与存储系统：管理端读取、模板存储、剧本发布归档
 - [[camera-point-system]] — CameraPoint 相机点管理系统：创建、导出、加载相机点数据
 - [[cuda-toolkit-安装与路径管理]] — CUDA Toolkit 安装位置、环境变量配置、多版本共存与迁移
 - [[environment-variable-management]] — 环境变量配置、管理与多版本共存策略（stub）
@@ -27,6 +33,8 @@
 - [[gzucm-vrvideo-ui-system]] — GZUCM_VRVideo UI 系统：菜单管理、背景音乐控制、音频同步
 - [[indoor-navigation-positioning]] — 室内导航与定位技术：BLE Beacon、技术对比、成本评估
 - [[level-management-system]] — Level Management 展厅场景管理系统：展厅布局、模型、材质、灯光
+- [[lightup-aitourpoint-audio-and-lrc-system]] — LightUP 音频生成与 LRC 对齐系统：StepFun 音频、base64 输出、异步字幕任务
+- [[lightup-aitourpoint-generation-pipeline]] — LightUP 讲解点 AI 生成链路：文稿、instruction、ttsText 的分段生成与校验
 - [[misc-development-notes]] — 杂项开发笔记：Shader 原理、PlayCanvas 转 glTF、无限滚动、场景状态机等
 - [[mr-workshop-event-system]] — MR Workshop 事件通信系统：静态事件、解耦通信、命名池管理
 - [[mr-workshop-gameplay-system]] — MR Workshop 游戏逻辑系统：抓取生成、计数管理、蓝图搭建
@@ -40,6 +48,9 @@
 - [[unity-svn-文件清理]] — Unity 工程上传 SVN 时可安全忽略的文件夹清单
 - [[webgl-development]] — Unity WebGL 开发：画面适配、视频播放、3D 互动、部署文档
 - [[xr-vr-ar-development]] — XR/VR/AR 开发：OpenXR 运行时、SteamVR、手势识别、AR 博物馆方案
+- [[vrdragon-boat-motion-system]] — VRDragon 船体运动与调参系统：划桨检测、统一推进模型、NPC 船与服务端运行时调参
+- [[vrdragon-network-and-matchflow-system]] — VRDragon 网络与比赛流程系统：自动启动、上船分配、玩家状态机与连续赛回流
+- [[vrdragon-results-and-ops-system]] — VRDragon 结果展示与现场运营系统：冲线判定、JSON 成绩、排行榜、相机与气氛同步
 
 ## Comparisons
 - [[ue5-unity-mr-projects]] — UE5 与 Unity MR 项目对比分析：架构、交互、数据流、性能优化
@@ -48,3 +59,5 @@
 
 ## Meta
 - [[topic-map]] — 高频主题导航页
+- [[conflicts]]
+- [[staging-index]] — 初始资源 intake 与 staged digests 导航
